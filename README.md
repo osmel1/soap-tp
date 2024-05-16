@@ -44,7 +44,8 @@ public class ServiceJWS {
 -  Tout d'abord on est besoin de creer une autre application java maven simple on ajoutant la meme dependance  :
   ![image](https://github.com/osmel1/soap-ws/assets/110778429/811e816d-ff8b-4a7c-ba52-2dd1b605b1da)
   <br><br>
-- Generer le proxy on utilisant un plugin dans intellij :
+- Generer le proxy(stub) on utilisant un plugin dans intellij :
+  
 ![Capture](https://github.com/osmel1/soap-ws/assets/110778429/7339995a-026b-4967-bf6c-ca7950329105)
 ![8](https://github.com/osmel1/soap-ws/assets/110778429/86078485-5505-4726-823a-c3814b2818cb)
 <br>
